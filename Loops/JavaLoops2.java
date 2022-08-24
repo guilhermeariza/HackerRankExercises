@@ -19,6 +19,7 @@ class JavaLoops2{
                 System.out.print(sum + " ");
                 
             }
+            
             System.out.println();
             
         

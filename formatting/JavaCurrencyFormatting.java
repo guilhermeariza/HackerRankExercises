@@ -5,6 +5,8 @@ import java.util.*;
 import java.text.*;
 
 public class JavaCurrencyFormatting {
+	
+	//https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
